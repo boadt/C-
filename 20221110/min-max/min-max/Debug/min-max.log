@@ -1,0 +1,4 @@
+﻿  min-max.cpp
+min-max.obj : error LNK2019: "int __cdecl find_min(int,int,int,int,int,int)" (?find_min@@YAHHHHHHH@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+min-max.obj : error LNK2019: "int __cdecl find_max(int,int,int,int,int,int)" (?find_max@@YAHHHHHHH@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+D:\c\20221110\min-max\Debug\min-max.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
